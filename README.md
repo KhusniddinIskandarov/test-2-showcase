@@ -1,5 +1,8 @@
 # 🌱 Plant Website
 
+A professional, responsive, and animation‑rich plant website
+built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
+
 ---
 
 ## 🔗 Live Demo
@@ -56,5 +59,3 @@ If you’re interested in collaboration or reviewing the implementation, feel fr
 ⭐️ Show your support
 
 If you like this project, give it a ⭐️ on GitHub!
-
----
