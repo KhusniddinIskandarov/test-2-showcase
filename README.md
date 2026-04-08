@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Live Demo ( plants7.vercel.app )](https://plants7.vercel.app)
+👉 [Live Demo (plants7.vercel.app)](https://plants7.vercel.app)
 
 ---
 
@@ -72,9 +72,7 @@ If you are interested in collaboration or reviewing the implementation, feel fre
 
 ## 🧑‍💻 Author
 
-### Husniddin Iskandarov
-
-Frontend Developer
+### Husniddin Iskandarov — Frontend Developer
 
 - 🐙 GitHub: [KhusniddinIskandarov](https://github.com/KhusniddinIskandarov)
 - 💼 LinkedIn: [khusniddiniskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
