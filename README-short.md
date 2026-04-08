@@ -4,7 +4,7 @@
 
 ---
 
-## 🔴 Live Demo
+## 🔗 Live Demo
 
 👉 Live Demo >---> [plants7.vercel.app](https://plants7.vercel.app) 🔗
 
@@ -74,11 +74,11 @@ If you are interested in collaboration or reviewing the implementation, feel fre
 
 ### Husniddin Iskandarov
 
-- GitHub: [KhusniddinIskandarov](https://github.com/KhusniddinIskandarov)
-- LinkedIn: [khusniddiniskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
-- Instagram: [@khusniddiniskandarov](https://www.instagram.com/khusniddiniskandarov)
-- Telegram: [@khusniddiniskandarov](https://t.me/KhusniddinIskandarov)
-- Email: [kh.sh.iskandarov@gmail.com](mailto:kh.sh.iskandarov@gmail.com)
+🐙 GitHub: [KhusniddinIskandarov](https://github.com/KhusniddinIskandarov)
+💼 LinkedIn: [khusniddiniskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
+📸 Instagram: [@khusniddiniskandarov](https://www.instagram.com/khusniddiniskandarov)
+💬 Telegram: [@khusniddiniskandarov](https://t.me/KhusniddinIskandarov)
+📧 Email: [kh.sh.iskandarov@gmail.com](mailto:kh.sh.iskandarov@gmail.com)
 
 ---
 
