@@ -40,9 +40,7 @@ If you’re interested in collaboration or reviewing the implementation, feel fr
 
 ---
 
-## 👨‍💻 Author
-
-### Khusniddin Iskandarov
+## 👨‍💻 Author: Khusniddin Iskandarov
 
 - [GitHub](https://github.com/KhusniddinIskandarov)
 - [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)
