@@ -26,10 +26,10 @@ built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
 
 ## ✨ Features
 
-⚡ Fast and optimized performance
-📱 Fully responsive design
-🎯 Clean UI/UX
-🧩 Modular code structure
+- ⚡ Fast and optimized performance
+- 📱 Fully responsive design
+- 🎯 Clean UI/UX
+- 🧩 Modular code structure
 
 ---
 
