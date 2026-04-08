@@ -3,8 +3,6 @@
 A professional, responsive, and animation‑rich plant website
 built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
 
----
-
 ## 🔗 Live Demo
 
 👉 [Live Demo](https://plants7.vercel.app)
@@ -17,8 +15,6 @@ built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
 - CSS3 / TailwindCSS
 - JavaScript (ES6+)
 - Vite
-
----
 
 ## 📸 Screenshots
 
@@ -53,8 +49,6 @@ If you’re interested in collaboration or reviewing the implementation, feel fr
 - [Instagram](https://www.instagram.com/khusniddiniskandarov)
 - [Telegram](https://t.me/KhusniddinIskandarov)
 - [Email](mailto:kh.sh.iskandarov@gmail.com)
-
----
 
 ⭐️ Show your support
 
