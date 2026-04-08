@@ -19,17 +19,25 @@
 
 ## 📸 Screenshots
 
-### 🖥 Desktop
+🔗 [🖥️ Desktop](./screenshots/desktop.webp)
+🔗 [📲 Tablet](./screenshots/tablet.webp)
+🔗 [📱 Mobile](./screenshots/mobile.webp)
 
-![Desktop](./screenshots/desktop.webp)
+---
 
-### 📲 Tablet
+## ✨ Features
 
-![Tablet](./screenshots/tablet.webp)
+⚡ Fast and optimized performance
+📱 Fully responsive design
+🎯 Clean UI/UX
+🧩 Modular code structure
 
-### 📱 Mobile
+---
 
-![Mobile](./screenshots/mobile.webp)
+## 🔒 Source Code
+
+This project’s full source code is kept private.
+If you’re interested in collaboration or reviewing the implementation, feel free to contact me.
 
 ---
 
@@ -45,6 +53,8 @@
 
 ---
 
-## 📦 Source Code
+⭐️ Show your support
 
-This project is private.
+If you like this project, give it a ⭐️ on GitHub!
+
+---
