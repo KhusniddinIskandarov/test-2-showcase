@@ -4,9 +4,9 @@
 
 ---
 
-## 🔗 Live Demo
+## 🔴 Live Demo
 
-👉 [plants7.vercel.app](https://plants7.vercel.app)
+👉 Live Demo: [🔗 plants7.vercel.app](https://plants7.vercel.app)
 
 ---
 
