@@ -45,9 +45,9 @@ It is designed with a strong emphasis on:
 
 ## 📸 Screenshots
 
-- 🖥️ [Desktop](./screenshots/desktop.webp)
-- 📲 [Tablet](./screenshots/tablet.webp)
-- 📱 [Mobile](./screenshots/mobile.webp)
+🔗 [🖥️ Desktop](./screenshots/desktop.webp)
+🔗 [📲 Tablet](./screenshots/tablet.webp)
+🔗 [📱 Mobile](./screenshots/mobile.webp)
 
 ---
 
@@ -72,12 +72,12 @@ If you are interested in collaboration or reviewing the implementation, feel fre
 
 ## 🧑‍💻 Author
 
-**Husniddin Iskandarov**
+### Husniddin Iskandarov
 
-- GitHub: [Khusniddin Iskandarov](https://github.com/KhusniddinIskandarov)
-- LinkedIn: [Khusniddin Iskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
-- Instagram: [Khusniddin Iskandarov](https://www.instagram.com/khusniddiniskandarov)
-- Telegram: [Khusniddin Iskandarov](https://t.me/KhusniddinIskandarov)
+- GitHub: [KhusniddinIskandarov](https://github.com/KhusniddinIskandarov)
+- LinkedIn: [khusniddiniskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
+- Instagram: [@khusniddiniskandarov](https://www.instagram.com/khusniddiniskandarov)
+- Telegram: [@khusniddiniskandarov](https://t.me/KhusniddinIskandarov)
 - Email: [kh.sh.iskandarov@gmail.com](mailto:kh.sh.iskandarov@gmail.com)
 
 ---
