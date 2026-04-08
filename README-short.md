@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 https://plants7.vercel.app
+👉 [Live Demo (plants7.vercel.app)](https://plants7.vercel.app)
 
 ---
 
@@ -45,9 +45,9 @@ It is designed with a strong emphasis on:
 
 ## 📸 Screenshots
 
-- 🖥️ Desktop → ./screenshots/desktop.webp
-- 📲 Tablet → ./screenshots/tablet.webp
-- 📱 Mobile → ./screenshots/mobile.webp
+- 🖥️ [Desktop](./screenshots/desktop.webp)
+- 📲 [Tablet](./screenshots/tablet.webp)
+- 📱 [Mobile](./screenshots/mobile.webp)
 
 ---
 
@@ -74,10 +74,10 @@ If you are interested in collaboration or reviewing the implementation, feel fre
 
 **Husniddin Iskandarov**
 
-- GitHub: https://github.com/KhusniddinIskandarov
-- LinkedIn: https://www.linkedin.com/in/khusniddiniskandarov
-- Instagram: https://www.instagram.com/khusniddiniskandarov
-- Telegram: https://t.me/KhusniddinIskandarov
+- GitHub: [Khusniddin Iskandarov](https://github.com/KhusniddinIskandarov)
+- LinkedIn: [Khusniddin Iskandarov](https://www.linkedin.com/in/khusniddiniskandarov)
+- Instagram: [Khusniddin Iskandarov](https://www.instagram.com/khusniddiniskandarov)
+- Telegram: [Khusniddin Iskandarov](https://t.me/KhusniddinIskandarov)
 - Email: [kh.sh.iskandarov@gmail.com](mailto:kh.sh.iskandarov@gmail.com)
 
 ---
