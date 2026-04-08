@@ -1,4 +1,4 @@
-# 🌱 Plant Website
+# 🌿 Plants Website
 
 A professional, responsive, and animation‑rich plant website
 built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
