@@ -1,28 +1,10 @@
 # 🌱 Plant Website
 
-> A professional, responsive, and animation‑rich plant website built using **Vite, TailwindCSS, custom CSS, and Vanilla JavaScript**.
-
 ---
 
 ## 🔗 Live Demo
 
 👉 [Live Demo](https://plants7.vercel.app)
-
----
-
-## 📸 Screenshots
-
-### 🖥 Desktop
-
-![Desktop](./images/preview/desktop.webp)
-
-### 📲 Tablet
-
-![Tablet](./images/preview/tablet.webp)
-
-### 📱 Mobile
-
-![Mobile](./images/preview/mobile.webp)
 
 ---
 
@@ -35,29 +17,19 @@
 
 ---
 
-## ✨ Features
+## 📸 Screenshots
 
-- ⚡ Fast and optimized performance
-- 📱 Fully responsive design
-- 🎯 Clean UI/UX
-- 🧩 Modular code structure
+### 🖥 Desktop
 
----
+![Desktop](./screenshots/desktop.webp)
 
-## 📦 Project Structure (Simplified)
+### 📲 Tablet
 
-src/
-├── components/
-├── assets/
-├── styles/
-└── main.js
+![Tablet](./screenshots/tablet.webp)
 
----
+### 📱 Mobile
 
-## 🔒 Source Code
-
-> This project’s full source code is kept private.
-> If you’re interested in collaboration or reviewing the implementation, feel free to contact me.
+![Mobile](./screenshots/mobile.webp)
 
 ---
 
@@ -73,6 +45,6 @@ src/
 
 ---
 
-## ⭐️ Show your support
+## 📦 Source Code
 
-If you like this project, give it a ⭐️ on GitHub!
+This project is private.
