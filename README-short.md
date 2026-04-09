@@ -35,7 +35,7 @@
 
 ## 📚 Documentation
 
-For full project details, internal docs, and setup instructions, see the [full README](./README.md).
+For full project details, internal docs, and setup instructions, see the [📘 Read Full README](./README.md).
 
 ---
 
